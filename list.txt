@@ -65,3 +65,4 @@ tracking.miui.com
 tracking.intl.miui.com
 tracking.india.miui.com
 tracking.rus.miui.com
+de.ots.io.mi.com
